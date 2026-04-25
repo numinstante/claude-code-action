@@ -19,6 +19,7 @@ export function collectActionInputsPresence(): string {
     claude_env: "",
     settings: "",
     anthropic_api_key: "",
+    anthropic_auth_token: "",
     claude_code_oauth_token: "",
     github_token: "",
     max_turns: "",
